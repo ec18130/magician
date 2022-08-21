@@ -1,0 +1,38 @@
+.card {
+  margin: 5px;
+  height: 150px;
+  width: 100px;
+  border: solid black;
+  display: inline-block;
+  background-color: white;
+  box-shadow: 2px 2px;
+  position: relative;
+  cursor: grab;
+}
+
+.stop {
+  pointer-events: none;
+}
+
+.cardnumber {
+  height: auto;
+  margin: 0;
+  font-size: 20pt;
+}
+
+.bottom {
+  height: auto;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.suitsign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48pt;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
