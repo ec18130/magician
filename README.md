@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+This project when run allows the user to create a deck of cards and shuffle randomly. The user can click on any given card which is then put into a drawn card area, being removed from the original deck. Any additional cards drawn will be sorted in an order of clubs, spades, hearts and diamonds with Ace being the highest value.
 
 ### `npm start`
 
