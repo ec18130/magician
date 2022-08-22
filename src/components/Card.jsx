@@ -10,7 +10,7 @@ const Card = (props) => {
     props.handleChoice(props.indexValue);
   }
 
-  //rendering the card template including props
+  //rendering the card template including propsç
   return (
     <div
       className={`${cardcss.card} ${disable ? cardcss.stop : null}`}
