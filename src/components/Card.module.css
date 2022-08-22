@@ -17,7 +17,7 @@
 .cardnumber {
   height: auto;
   margin: 0;
-  font-size: 20pt;
+  font-size: 18pt;
 }
 
 .bottom {
@@ -33,6 +33,4 @@
   justify-content: center;
   align-items: center;
   font-size: 48pt;
-  margin-top: 5%;
-  margin-bottom: 4%;
 }
