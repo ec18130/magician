@@ -9,7 +9,7 @@ This project when run allows the user to create a deck of cards and shuffle rand
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
 Open build version [https://ec18130.github.io/magician/](https://ec18130.github.io/magician/) to view it in your browser.
 
 The page will reload when you make changes.\
