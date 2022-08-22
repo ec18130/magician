@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+//maps all the card objects stored.
 const ShowCards = (props) => {
   return (
     <div>

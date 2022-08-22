@@ -2,7 +2,6 @@ import { useState } from 'react';
 import './App.css';
 import Card from './components/Card';
 import ShowCards from './components/ShowCards';
-import DrawnCards from './components/DrawnCards';
 import Btn from './components/Btn';
 
 //Card Number
@@ -135,7 +134,7 @@ function App() {
       </div>
       <div>
         <h1>DRAWN CARDS</h1>
-        <DrawnCards getdrawnCard={getdrawnCard} />
+        <ShowCards showcards={getdrawnCard} />
       </div>
     </div>
   );
