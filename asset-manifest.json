@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/magician/static/css/main.527bfd5c.css",
-    "main.js": "/magician/static/js/main.e10ceb47.js",
+    "main.js": "/magician/static/js/main.80d16c55.js",
     "static/js/787.02b8a409.chunk.js": "/magician/static/js/787.02b8a409.chunk.js",
     "index.html": "/magician/index.html",
     "main.527bfd5c.css.map": "/magician/static/css/main.527bfd5c.css.map",
-    "main.e10ceb47.js.map": "/magician/static/js/main.e10ceb47.js.map",
+    "main.80d16c55.js.map": "/magician/static/js/main.80d16c55.js.map",
     "787.02b8a409.chunk.js.map": "/magician/static/js/787.02b8a409.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.527bfd5c.css",
-    "static/js/main.e10ceb47.js"
+    "static/js/main.80d16c55.js"
   ]
 }
