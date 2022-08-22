@@ -10,6 +10,7 @@ This project when run allows the user to create a deck of cards and shuffle rand
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open build version [https://ec18130.github.io/magician/](https://ec18130.github.io/magician/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -26,8 +27,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-Open [https://ec18130.github.io/magician/](https://ec18130.github.io/magician/) to view it in your browser.\
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
